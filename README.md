@@ -1,66 +1,74 @@
-<h1 align="center">Halo, saya Azmi Fatahilah 👋</h1>
+<!-- HEADER -->
+<h1 align="center">Azmi Fatahilah</h1>
+<p align="center"><em>Fullstack Web & Mobile Developer</em></p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Fullstack+Web+%26+Mobile+Developer;Laravel+%7C+React+%7C+Flutter;Selalu+Belajar+Hal+Baru" alt="Typing SVG" />
+  <a href="mailto:emailkamu@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/namalinkedinmu/">LinkedIn</a> •
+  <a href="https://namadomainmu.com">Portofolio</a>
 </p>
 
 ---
 
-## ✨ Tentang Saya
+## 👋 Tentang Saya
 
-👨‍💻 Saya adalah seorang pengembang web dan aplikasi mobile yang fokus pada **pengalaman pengguna**, **clean code**, dan **teknologi modern**.  
-🚀 Saat ini saya sedang mengembangkan beberapa proyek pribadi dan aktif belajar hal-hal baru.  
-💡 Tertarik pada pengembangan sistem yang berdampak dan dapat digunakan banyak orang.  
-📚 Sedang mendalami: `Next.js`, `Firebase`, `CI/CD`.
+Saya adalah pengembang perangkat lunak yang memiliki fokus pada pengembangan **aplikasi web dan mobile**. Saya menikmati proses membangun produk digital dari awal hingga selesai, dengan perhatian pada **UI/UX**, **clean code**, dan **pengalaman pengguna**.
 
----
-
-## 🛠️ Teknologi yang Saya Gunakan
-
-### 💻 Bahasa Pemrograman
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-
-### 🧰 Framework & Library
-![Laravel](https://img.shields.io/badge/-Laravel-F55247?logo=laravel&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
-
-### 🛠️ Tools & Software
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+- 🔭 Saat ini fokus mengembangkan aplikasi berbasis Laravel, React, dan Flutter.
+- 📚 Terus belajar teknologi baru seperti CI/CD, GraphQL, dan Firebase.
+- 🌱 Terbuka untuk kolaborasi proyek open-source atau freelance.
+- 🎯 Motto: *"Simplicity is the ultimate sophistication."*
 
 ---
 
-## 🚀 Proyek Unggulan
+## 🧠 Stack Teknologi
 
-### 🎫 Aplikasi Pemesanan Tiket Wisata  
-Sistem pemesanan online dengan fitur integrasi Midtrans, scan QR, ulasan pengguna, dan dashboard admin.  
-**Teknologi:** Laravel, React, Tailwind, Midtrans, MySQL
+### Bahasa Pemrograman
+- HTML, CSS
+- JavaScript (ES6+)
+- PHP (Laravel)
+- Dart (Flutter)
 
-### 📚 Perpustakaan Online  
-Aplikasi perpustakaan digital dengan autentikasi user dan CMS admin. Mendukung peminjaman buku, ulasan, dan pengelolaan data buku.  
-**Teknologi:** Laravel, React, Tailwind, JWT Auth
+### Framework & Library
+- Laravel (Back-End)
+- Node.js (API & Tools)
+- React (Frontend SPA)
+- Bootstrap (CSS Framework)
+- Tailwind CSS (Utility CSS)
+- Flutter (Mobile)
 
-### 💸 SmartMoney - Aplikasi Keuangan  
-Aplikasi mobile untuk mencatat pemasukan dan pengeluaran secara real-time menggunakan Flutter & GetX.  
-**Teknologi:** Flutter, GetX, SQLite
+### Tools & Software
+- Visual Studio Code
+- Git & GitHub
+- Postman
+- Figma
 
 ---
 
-## 📫 Hubungi Saya
+## 🌟 Proyek Terbaru
 
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:emailkamu@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/namalinkedinmu/)
-[![Portfolio](https://img.shields.io/badge/-Portofolio-24292e?logo=githubpages&logoColor=white&style=for-the-badge)](https://namadomainmu.com)
+### 1. **Sistem Pemesanan Tiket Wisata**
+Sistem web untuk memesan tiket wisata dengan integrasi Midtrans, QR code, dan dashboard admin.  
+**Stack:** Laravel, React, Tailwind, Midtrans, MySQL
+
+### 2. **Perpustakaan Online**
+Aplikasi manajemen perpustakaan berbasis web dengan login user/admin, peminjaman buku, dan CMS.  
+**Stack:** Laravel, React, MySQL, JWT Auth
+
+### 3. **SmartMoney App**
+Aplikasi mobile untuk mencatat pemasukan dan pengeluaran harian secara real-time.  
+**Stack:** Flutter, GetX, SQLite
 
 ---
 
-<p align="center">💬 Terima kasih sudah mampir ke profil saya!</p>
+## 📬 Kontak
+
+Jika kamu tertarik untuk bekerja sama, berdiskusi, atau hanya sekadar menyapa, silakan hubungi saya:
+
+- 📧 Email: [emailkamu@gmail.com](mailto:emailkamu@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/namalinkedinmu](https://linkedin.com/in/namalinkedinmu)  
+- 🌐 Website: [namadomainmu.com](https://namadomainmu.com)
+
+---
+
+<p align="center"><em>Terima kasih telah mengunjungi profil saya!</em></p>
