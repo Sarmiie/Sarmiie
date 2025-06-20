@@ -1,6 +1,6 @@
 <!-- 🌙 PIXEL NIGHT WFH GIF HEADER + TYPING TEXT -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBwMm8ycWx2Y3l3ZnNnbWQ4MnBpazBhMHlxZ2VhdnNoZzFkYWgzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9LZTcawH3mc8V2oUqk/giphy.gif" width="700" alt="Pixel Night WFH GIF" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBwMm8ycWx2Y3l3ZnNnbWQ4MnBpazBhMHlxZ2VhdnNoZzFkYWgzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9LZTcawH3mc8V2oUqk/giphy.gif" width="500" alt="Pixel Night WFH GIF" />
 </p>
 
 <h1 align="center">Halo, saya Azmi Fatahilah 👋</h1>
