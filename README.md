@@ -5,7 +5,7 @@
 
 <h1 align="center">Halo, saya Azmi Fatahilah 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=500&lines=Fullstack+Web+%26+Mobile+Developer;Laravel+%7C+React+%7C+Flutter;Clean+Code+%7C+Elegant+UI+%7C+Scalable+System" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=500&lines=Frontend+Web+%26+Mobile+Developer;Laravel+%7C+React+%7C+Flutter;Clean+Code+%7C+Elegant+UI+%7C+Scalable+System" alt="Typing SVG" />
 </p>
 
 <p align="center">
